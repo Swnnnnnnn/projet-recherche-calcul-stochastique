@@ -30,5 +30,5 @@ Le test de Lee & Mykland s’avère efficace pour distinguer les variations de v
 - Méthodes statistiques appliquées à la finance  
 - Rédaction scientifique sous LaTeX
 
-
+Tous les codes Python associés à ce projet sont présentés en annexe du rapport.
 
